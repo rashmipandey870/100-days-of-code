@@ -10,3 +10,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
 | Day 1 | Arrays | [Two Sum](./day-001-arrays) | Completed ✅ |
+
+<!-- Day 1 logged -->
