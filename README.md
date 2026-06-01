@@ -5,10 +5,9 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 1)
+### Progress Log (Day 1 - Day 2)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
 | Day 1 | Arrays | [Two Sum](./day-001-arrays) | Completed ✅ |
-
-<!-- Day 1 logged -->
+| Day 2 | Arrays | [Valid Anagram](./day-002-arrays) | Completed ✅ |
