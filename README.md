@@ -14,3 +14,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 3 | Arrays | [Contains Duplicate](./day-003-arrays) | Completed ✅ |
 | Day 4 | Arrays | [Group Anagrams](./day-004-arrays) | Completed ✅ |
 | Day 5 | Arrays | [Top K Frequent Elements](./day-005-arrays) | Completed ✅ |
+
+<!-- Day 5 logged -->
