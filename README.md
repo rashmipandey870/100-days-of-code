@@ -15,3 +15,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 4 | Arrays | [Group Anagrams](./day-004-arrays) | Completed ✅ |
 | Day 5 | Arrays | [Top K Frequent Elements](./day-005-arrays) | Completed ✅ |
 | Day 6 | Arrays | [Product of Array Except Self](./day-006-arrays) | Completed ✅ |
+
+<!-- Day 6 logged -->
