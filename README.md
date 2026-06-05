@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 5)
+### Progress Log (Day 1 - Day 6)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -14,5 +14,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 3 | Arrays | [Contains Duplicate](./day-003-arrays) | Completed ✅ |
 | Day 4 | Arrays | [Group Anagrams](./day-004-arrays) | Completed ✅ |
 | Day 5 | Arrays | [Top K Frequent Elements](./day-005-arrays) | Completed ✅ |
-
-<!-- Day 5 logged -->
+| Day 6 | Arrays | [Product of Array Except Self](./day-006-arrays) | Completed ✅ |
