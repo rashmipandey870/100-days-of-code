@@ -18,3 +18,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 7 | Arrays | [Longest Consecutive Sequence](./day-007-arrays) | Completed ✅ |
 | Day 8 | Arrays | [Valid Sudoku](./day-008-arrays) | Completed ✅ |
 | Day 9 | Arrays | [Encode and Decode Strings](./day-009-arrays) | Completed ✅ |
+
+<!-- Day 9 logged -->
