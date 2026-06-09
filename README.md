@@ -19,3 +19,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 8 | Arrays | [Valid Sudoku](./day-008-arrays) | Completed ✅ |
 | Day 9 | Arrays | [Encode and Decode Strings](./day-009-arrays) | Completed ✅ |
 | Day 10 | Two Pointers | [Best Time to Buy and Sell Stock](./day-010-two-pointers) | Completed ✅ |
+
+<!-- Day 10 logged -->
