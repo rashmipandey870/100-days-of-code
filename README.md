@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 10)
+### Progress Log (Day 1 - Day 11)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -19,5 +19,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 8 | Arrays | [Valid Sudoku](./day-008-arrays) | Completed ✅ |
 | Day 9 | Arrays | [Encode and Decode Strings](./day-009-arrays) | Completed ✅ |
 | Day 10 | Two Pointers | [Best Time to Buy and Sell Stock](./day-010-two-pointers) | Completed ✅ |
-
-<!-- Day 10 logged -->
+| Day 11 | Two Pointers | [Valid Palindrome](./day-011-two-pointers) | Completed ✅ |
