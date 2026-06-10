@@ -20,3 +20,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 9 | Arrays | [Encode and Decode Strings](./day-009-arrays) | Completed ✅ |
 | Day 10 | Two Pointers | [Best Time to Buy and Sell Stock](./day-010-two-pointers) | Completed ✅ |
 | Day 11 | Two Pointers | [Valid Palindrome](./day-011-two-pointers) | Completed ✅ |
+
+<!-- Day 11 logged -->
