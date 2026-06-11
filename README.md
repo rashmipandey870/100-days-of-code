@@ -21,3 +21,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 10 | Two Pointers | [Best Time to Buy and Sell Stock](./day-010-two-pointers) | Completed ✅ |
 | Day 11 | Two Pointers | [Valid Palindrome](./day-011-two-pointers) | Completed ✅ |
 | Day 12 | Two Pointers | [Two Sum II Sorted](./day-012-two-pointers) | Completed ✅ |
+
+<!-- Day 12 logged -->
