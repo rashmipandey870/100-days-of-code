@@ -26,3 +26,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 15 | Two Pointers | [Trapping Rain Water](./day-015-two-pointers) | Completed ✅ |
 | Day 16 | Sliding Window | [Longest Substring Without Repeating Characters](./day-016-sliding-window) | Completed ✅ |
 | Day 17 | Sliding Window | [Longest Repeating Character Replacement](./day-017-sliding-window) | Completed ✅ |
+
+<!-- Day 17 logged -->
