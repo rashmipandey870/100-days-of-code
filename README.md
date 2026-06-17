@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 17)
+### Progress Log (Day 1 - Day 18)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -26,5 +26,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 15 | Two Pointers | [Trapping Rain Water](./day-015-two-pointers) | Completed ✅ |
 | Day 16 | Sliding Window | [Longest Substring Without Repeating Characters](./day-016-sliding-window) | Completed ✅ |
 | Day 17 | Sliding Window | [Longest Repeating Character Replacement](./day-017-sliding-window) | Completed ✅ |
-
-<!-- Day 17 logged -->
+| Day 18 | Sliding Window | [Permutation in String](./day-018-sliding-window) | Completed ✅ |
