@@ -28,3 +28,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 17 | Sliding Window | [Longest Repeating Character Replacement](./day-017-sliding-window) | Completed ✅ |
 | Day 18 | Sliding Window | [Permutation in String](./day-018-sliding-window) | Completed ✅ |
 | Day 19 | Sliding Window | [Minimum Window Substring](./day-019-sliding-window) | Completed ✅ |
+
+<!-- Day 19 logged -->
