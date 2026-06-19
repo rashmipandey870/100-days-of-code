@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 19)
+### Progress Log (Day 1 - Day 20)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -28,5 +28,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 17 | Sliding Window | [Longest Repeating Character Replacement](./day-017-sliding-window) | Completed ✅ |
 | Day 18 | Sliding Window | [Permutation in String](./day-018-sliding-window) | Completed ✅ |
 | Day 19 | Sliding Window | [Minimum Window Substring](./day-019-sliding-window) | Completed ✅ |
-
-<!-- Day 19 logged -->
+| Day 20 | Sliding Window | [Sliding Window Maximum](./day-020-sliding-window) | Completed ✅ |
