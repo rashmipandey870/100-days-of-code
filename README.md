@@ -30,3 +30,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 19 | Sliding Window | [Minimum Window Substring](./day-019-sliding-window) | Completed ✅ |
 | Day 20 | Sliding Window | [Sliding Window Maximum](./day-020-sliding-window) | Completed ✅ |
 | Day 21 | Stack | [Valid Parentheses](./day-021-stack) | Completed ✅ |
+
+<!-- Day 21 logged -->
