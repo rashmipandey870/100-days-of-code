@@ -31,3 +31,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 20 | Sliding Window | [Sliding Window Maximum](./day-020-sliding-window) | Completed ✅ |
 | Day 21 | Stack | [Valid Parentheses](./day-021-stack) | Completed ✅ |
 | Day 22 | Stack | [Min Stack Design](./day-022-stack) | Completed ✅ |
+
+<!-- Day 22 logged -->
