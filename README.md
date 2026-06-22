@@ -32,3 +32,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 21 | Stack | [Valid Parentheses](./day-021-stack) | Completed ✅ |
 | Day 22 | Stack | [Min Stack Design](./day-022-stack) | Completed ✅ |
 | Day 23 | Stack | [Evaluate Reverse Polish Notation](./day-023-stack) | Completed ✅ |
+
+<!-- Day 23 logged -->
