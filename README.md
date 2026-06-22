@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 22)
+### Progress Log (Day 1 - Day 23)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -31,5 +31,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 20 | Sliding Window | [Sliding Window Maximum](./day-020-sliding-window) | Completed ✅ |
 | Day 21 | Stack | [Valid Parentheses](./day-021-stack) | Completed ✅ |
 | Day 22 | Stack | [Min Stack Design](./day-022-stack) | Completed ✅ |
-
-<!-- Day 22 logged -->
+| Day 23 | Stack | [Evaluate Reverse Polish Notation](./day-023-stack) | Completed ✅ |
