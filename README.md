@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 25)
+### Progress Log (Day 1 - Day 26)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -34,5 +34,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 23 | Stack | [Evaluate Reverse Polish Notation](./day-023-stack) | Completed ✅ |
 | Day 24 | Stack | [Generate Parentheses](./day-024-stack) | Completed ✅ |
 | Day 25 | Stack | [Daily Temperatures](./day-025-stack) | Completed ✅ |
-
-<!-- Day 25 logged -->
+| Day 26 | Stack | [Car Fleet](./day-026-stack) | Completed ✅ |
