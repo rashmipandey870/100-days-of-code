@@ -36,3 +36,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 25 | Stack | [Daily Temperatures](./day-025-stack) | Completed ✅ |
 | Day 26 | Stack | [Car Fleet](./day-026-stack) | Completed ✅ |
 | Day 27 | Stack | [Largest Rectangle in Histogram](./day-027-stack) | Completed ✅ |
+
+<!-- Day 27 logged -->
