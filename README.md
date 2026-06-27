@@ -37,3 +37,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 26 | Stack | [Car Fleet](./day-026-stack) | Completed ✅ |
 | Day 27 | Stack | [Largest Rectangle in Histogram](./day-027-stack) | Completed ✅ |
 | Day 28 | Stack | [Asteroid Collision](./day-028-stack) | Completed ✅ |
+
+<!-- Day 28 logged -->
