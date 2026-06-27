@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 27)
+### Progress Log (Day 1 - Day 28)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -36,5 +36,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 25 | Stack | [Daily Temperatures](./day-025-stack) | Completed ✅ |
 | Day 26 | Stack | [Car Fleet](./day-026-stack) | Completed ✅ |
 | Day 27 | Stack | [Largest Rectangle in Histogram](./day-027-stack) | Completed ✅ |
-
-<!-- Day 27 logged -->
+| Day 28 | Stack | [Asteroid Collision](./day-028-stack) | Completed ✅ |
