@@ -38,3 +38,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 27 | Stack | [Largest Rectangle in Histogram](./day-027-stack) | Completed ✅ |
 | Day 28 | Stack | [Asteroid Collision](./day-028-stack) | Completed ✅ |
 | Day 29 | Stack | [Next Greater Element](./day-029-stack) | Completed ✅ |
+
+<!-- Day 29 logged -->
