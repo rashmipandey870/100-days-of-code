@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 30)
+### Progress Log (Day 1 - Day 31)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -39,5 +39,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 28 | Stack | [Asteroid Collision](./day-028-stack) | Completed ✅ |
 | Day 29 | Stack | [Next Greater Element](./day-029-stack) | Completed ✅ |
 | Day 30 | Stack | [Simplify Path](./day-030-stack) | Completed ✅ |
-
-<!-- Day 30 logged -->
+| Day 31 | Binary Search | [Binary Search Algorithm](./day-031-binary-search) | Completed ✅ |
