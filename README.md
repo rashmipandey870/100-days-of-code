@@ -40,3 +40,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 29 | Stack | [Next Greater Element](./day-029-stack) | Completed ✅ |
 | Day 30 | Stack | [Simplify Path](./day-030-stack) | Completed ✅ |
 | Day 31 | Binary Search | [Binary Search Algorithm](./day-031-binary-search) | Completed ✅ |
+
+<!-- Day 31 logged -->
