@@ -42,3 +42,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 31 | Binary Search | [Binary Search Algorithm](./day-031-binary-search) | Completed ✅ |
 | Day 32 | Binary Search | [Search in 2D Matrix](./day-032-binary-search) | Completed ✅ |
 | Day 33 | Binary Search | [Koko Eating Bananas](./day-033-binary-search) | Completed ✅ |
+
+<!-- Day 33 logged -->
