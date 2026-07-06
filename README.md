@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 36)
+### Progress Log (Day 1 - Day 37)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -45,5 +45,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 34 | Binary Search | [Find Minimum in Rotated Sorted Array](./day-034-binary-search) | Completed ✅ |
 | Day 35 | Binary Search | [Search in Rotated Sorted Array](./day-035-binary-search) | Completed ✅ |
 | Day 36 | Binary Search | [Time Based Key-Value Store](./day-036-binary-search) | Completed ✅ |
-
-<!-- Day 36 logged -->
+| Day 37 | Binary Search | [Median of Two Sorted Arrays](./day-037-binary-search) | Completed ✅ |
