@@ -47,3 +47,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 36 | Binary Search | [Time Based Key-Value Store](./day-036-binary-search) | Completed ✅ |
 | Day 37 | Binary Search | [Median of Two Sorted Arrays](./day-037-binary-search) | Completed ✅ |
 | Day 38 | Binary Search | [First and Last Position of Element in Sorted Array](./day-038-binary-search) | Completed ✅ |
+
+<!-- Day 38 logged -->
