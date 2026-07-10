@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 40)
+### Progress Log (Day 1 - Day 41)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -49,5 +49,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 38 | Binary Search | [First and Last Position of Element in Sorted Array](./day-038-binary-search) | Completed ✅ |
 | Day 39 | Binary Search | [Peak Index in Mountain Array](./day-039-binary-search) | Completed ✅ |
 | Day 40 | Binary Search | [Capacity to Ship Packages Within D Days](./day-040-binary-search) | Completed ✅ |
-
-<!-- Day 40 logged -->
+| Day 41 | Linked Lists | [Reverse Linked List](./day-041-linked-lists) | Completed ✅ |
