@@ -50,3 +50,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 39 | Binary Search | [Peak Index in Mountain Array](./day-039-binary-search) | Completed ✅ |
 | Day 40 | Binary Search | [Capacity to Ship Packages Within D Days](./day-040-binary-search) | Completed ✅ |
 | Day 41 | Linked Lists | [Reverse Linked List](./day-041-linked-lists) | Completed ✅ |
+
+<!-- Day 41 logged -->
