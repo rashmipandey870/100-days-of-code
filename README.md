@@ -51,3 +51,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 40 | Binary Search | [Capacity to Ship Packages Within D Days](./day-040-binary-search) | Completed ✅ |
 | Day 41 | Linked Lists | [Reverse Linked List](./day-041-linked-lists) | Completed ✅ |
 | Day 42 | Linked Lists | [Merge Two Sorted Linked Lists](./day-042-linked-lists) | Completed ✅ |
+
+<!-- Day 42 logged -->
