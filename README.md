@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 42)
+### Progress Log (Day 1 - Day 43)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -51,5 +51,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 40 | Binary Search | [Capacity to Ship Packages Within D Days](./day-040-binary-search) | Completed ✅ |
 | Day 41 | Linked Lists | [Reverse Linked List](./day-041-linked-lists) | Completed ✅ |
 | Day 42 | Linked Lists | [Merge Two Sorted Linked Lists](./day-042-linked-lists) | Completed ✅ |
-
-<!-- Day 42 logged -->
+| Day 43 | Linked Lists | [Reorder Linked List](./day-043-linked-lists) | Completed ✅ |
