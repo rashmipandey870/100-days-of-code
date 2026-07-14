@@ -54,3 +54,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 43 | Linked Lists | [Reorder Linked List](./day-043-linked-lists) | Completed ✅ |
 | Day 44 | Linked Lists | [Remove Nth Node from End](./day-044-linked-lists) | Completed ✅ |
 | Day 45 | Linked Lists | [Copy List with Random Pointer](./day-045-linked-lists) | Completed ✅ |
+
+<!-- Day 45 logged -->
