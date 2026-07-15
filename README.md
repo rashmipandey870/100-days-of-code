@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 45)
+### Progress Log (Day 1 - Day 46)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -54,5 +54,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 43 | Linked Lists | [Reorder Linked List](./day-043-linked-lists) | Completed ✅ |
 | Day 44 | Linked Lists | [Remove Nth Node from End](./day-044-linked-lists) | Completed ✅ |
 | Day 45 | Linked Lists | [Copy List with Random Pointer](./day-045-linked-lists) | Completed ✅ |
-
-<!-- Day 45 logged -->
+| Day 46 | Linked Lists | [Add Two Numbers via Linked Lists](./day-046-linked-lists) | Completed ✅ |
