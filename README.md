@@ -55,3 +55,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 44 | Linked Lists | [Remove Nth Node from End](./day-044-linked-lists) | Completed ✅ |
 | Day 45 | Linked Lists | [Copy List with Random Pointer](./day-045-linked-lists) | Completed ✅ |
 | Day 46 | Linked Lists | [Add Two Numbers via Linked Lists](./day-046-linked-lists) | Completed ✅ |
+
+<!-- Day 46 logged -->
