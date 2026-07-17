@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 47)
+### Progress Log (Day 1 - Day 48)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -56,5 +56,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 45 | Linked Lists | [Copy List with Random Pointer](./day-045-linked-lists) | Completed ✅ |
 | Day 46 | Linked Lists | [Add Two Numbers via Linked Lists](./day-046-linked-lists) | Completed ✅ |
 | Day 47 | Linked Lists | [Linked List Cycle Detection](./day-047-linked-lists) | Completed ✅ |
-
-<!-- Day 47 logged -->
+| Day 48 | Linked Lists | [Find Duplicate Number in Array](./day-048-linked-lists) | Completed ✅ |
