@@ -58,3 +58,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 47 | Linked Lists | [Linked List Cycle Detection](./day-047-linked-lists) | Completed ✅ |
 | Day 48 | Linked Lists | [Find Duplicate Number in Array](./day-048-linked-lists) | Completed ✅ |
 | Day 49 | Linked Lists | [LRU Cache Implementation](./day-049-linked-lists) | Completed ✅ |
+
+<!-- Day 49 logged -->
