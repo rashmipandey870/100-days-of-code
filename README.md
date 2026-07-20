@@ -60,3 +60,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 49 | Linked Lists | [LRU Cache Implementation](./day-049-linked-lists) | Completed ✅ |
 | Day 50 | Linked Lists | [Merge K Sorted Lists](./day-050-linked-lists) | Completed ✅ |
 | Day 51 | Trees | [Invert Binary Tree](./day-051-trees) | Completed ✅ |
+
+<!-- Day 51 logged -->
