@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 51)
+### Progress Log (Day 1 - Day 52)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -60,5 +60,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 49 | Linked Lists | [LRU Cache Implementation](./day-049-linked-lists) | Completed ✅ |
 | Day 50 | Linked Lists | [Merge K Sorted Lists](./day-050-linked-lists) | Completed ✅ |
 | Day 51 | Trees | [Invert Binary Tree](./day-051-trees) | Completed ✅ |
-
-<!-- Day 51 logged -->
+| Day 52 | Trees | [Maximum Depth of Binary Tree](./day-052-trees) | Completed ✅ |
