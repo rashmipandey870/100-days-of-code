@@ -61,3 +61,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 50 | Linked Lists | [Merge K Sorted Lists](./day-050-linked-lists) | Completed ✅ |
 | Day 51 | Trees | [Invert Binary Tree](./day-051-trees) | Completed ✅ |
 | Day 52 | Trees | [Maximum Depth of Binary Tree](./day-052-trees) | Completed ✅ |
+
+<!-- Day 52 logged -->
