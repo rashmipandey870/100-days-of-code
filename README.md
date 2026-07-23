@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 53)
+### Progress Log (Day 1 - Day 54)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -62,5 +62,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 51 | Trees | [Invert Binary Tree](./day-051-trees) | Completed ✅ |
 | Day 52 | Trees | [Maximum Depth of Binary Tree](./day-052-trees) | Completed ✅ |
 | Day 53 | Trees | [Diameter of Binary Tree](./day-053-trees) | Completed ✅ |
-
-<!-- Day 53 logged -->
+| Day 54 | Trees | [Balanced Binary Tree Check](./day-054-trees) | Completed ✅ |
