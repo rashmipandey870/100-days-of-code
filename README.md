@@ -63,3 +63,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 52 | Trees | [Maximum Depth of Binary Tree](./day-052-trees) | Completed ✅ |
 | Day 53 | Trees | [Diameter of Binary Tree](./day-053-trees) | Completed ✅ |
 | Day 54 | Trees | [Balanced Binary Tree Check](./day-054-trees) | Completed ✅ |
+
+<!-- Day 54 logged -->
