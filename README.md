@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 56)
+### Progress Log (Day 1 - Day 57)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -65,5 +65,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 54 | Trees | [Balanced Binary Tree Check](./day-054-trees) | Completed ✅ |
 | Day 55 | Trees | [Same Tree Comparison](./day-055-trees) | Completed ✅ |
 | Day 56 | Trees | [Subtree of Another Tree](./day-056-trees) | Completed ✅ |
-
-<!-- Day 56 logged -->
+| Day 57 | Trees | [Lowest Common Ancestor in BST](./day-057-trees) | Completed ✅ |
