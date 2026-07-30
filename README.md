@@ -70,3 +70,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 59 | Trees | [Binary Tree Right Side View](./day-059-trees) | Completed ✅ |
 | Day 60 | Trees | [Count Good Nodes in Binary Tree](./day-060-trees) | Completed ✅ |
 | Day 61 | Trees & BST | [Validate Binary Search Tree](./day-061-trees---bst) | Completed ✅ |
+
+<!-- Day 61 logged -->
