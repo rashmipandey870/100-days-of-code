@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 61)
+### Progress Log (Day 1 - Day 62)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -70,5 +70,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 59 | Trees | [Binary Tree Right Side View](./day-059-trees) | Completed ✅ |
 | Day 60 | Trees | [Count Good Nodes in Binary Tree](./day-060-trees) | Completed ✅ |
 | Day 61 | Trees & BST | [Validate Binary Search Tree](./day-061-trees---bst) | Completed ✅ |
-
-<!-- Day 61 logged -->
+| Day 62 | Trees & BST | [Kth Smallest Element in BST](./day-062-trees---bst) | Completed ✅ |
