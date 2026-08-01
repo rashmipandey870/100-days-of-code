@@ -72,3 +72,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 61 | Trees & BST | [Validate Binary Search Tree](./day-061-trees---bst) | Completed ✅ |
 | Day 62 | Trees & BST | [Kth Smallest Element in BST](./day-062-trees---bst) | Completed ✅ |
 | Day 63 | Trees & BST | [Construct Tree from Preorder and Inorder](./day-063-trees---bst) | Completed ✅ |
+
+<!-- Day 63 logged -->
