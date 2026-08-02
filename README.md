@@ -73,3 +73,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 62 | Trees & BST | [Kth Smallest Element in BST](./day-062-trees---bst) | Completed ✅ |
 | Day 63 | Trees & BST | [Construct Tree from Preorder and Inorder](./day-063-trees---bst) | Completed ✅ |
 | Day 64 | Trees & BST | [Binary Tree Maximum Path Sum](./day-064-trees---bst) | Completed ✅ |
+
+<!-- Day 64 logged -->
