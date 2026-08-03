@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 64)
+### Progress Log (Day 1 - Day 65)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -73,5 +73,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 62 | Trees & BST | [Kth Smallest Element in BST](./day-062-trees---bst) | Completed ✅ |
 | Day 63 | Trees & BST | [Construct Tree from Preorder and Inorder](./day-063-trees---bst) | Completed ✅ |
 | Day 64 | Trees & BST | [Binary Tree Maximum Path Sum](./day-064-trees---bst) | Completed ✅ |
-
-<!-- Day 64 logged -->
+| Day 65 | Trees & BST | [Serialize and Deserialize Tree](./day-065-trees---bst) | Completed ✅ |
