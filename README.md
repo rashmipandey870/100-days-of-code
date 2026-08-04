@@ -75,3 +75,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 64 | Trees & BST | [Binary Tree Maximum Path Sum](./day-064-trees---bst) | Completed ✅ |
 | Day 65 | Trees & BST | [Serialize and Deserialize Tree](./day-065-trees---bst) | Completed ✅ |
 | Day 66 | Heaps | [Kth Largest Element in Stream](./day-066-heaps) | Completed ✅ |
+
+<!-- Day 66 logged -->
