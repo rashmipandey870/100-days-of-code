@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 67)
+### Progress Log (Day 1 - Day 68)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -76,5 +76,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 65 | Trees & BST | [Serialize and Deserialize Tree](./day-065-trees---bst) | Completed ✅ |
 | Day 66 | Heaps | [Kth Largest Element in Stream](./day-066-heaps) | Completed ✅ |
 | Day 67 | Heaps | [Last Stone Weight](./day-067-heaps) | Completed ✅ |
-
-<!-- Day 67 logged -->
+| Day 68 | Heaps | [K Closest Points to Origin](./day-068-heaps) | Completed ✅ |
