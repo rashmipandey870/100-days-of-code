@@ -79,3 +79,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 68 | Heaps | [K Closest Points to Origin](./day-068-heaps) | Completed ✅ |
 | Day 69 | Heaps | [Kth Largest Element in Array](./day-069-heaps) | Completed ✅ |
 | Day 70 | Heaps | [Task Scheduler Algorithm](./day-070-heaps) | Completed ✅ |
+
+<!-- Day 70 logged -->
