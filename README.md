@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 69)
+### Progress Log (Day 1 - Day 70)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -78,5 +78,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 67 | Heaps | [Last Stone Weight](./day-067-heaps) | Completed ✅ |
 | Day 68 | Heaps | [K Closest Points to Origin](./day-068-heaps) | Completed ✅ |
 | Day 69 | Heaps | [Kth Largest Element in Array](./day-069-heaps) | Completed ✅ |
-
-<!-- Day 69 logged -->
+| Day 70 | Heaps | [Task Scheduler Algorithm](./day-070-heaps) | Completed ✅ |
