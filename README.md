@@ -80,3 +80,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 69 | Heaps | [Kth Largest Element in Array](./day-069-heaps) | Completed ✅ |
 | Day 70 | Heaps | [Task Scheduler Algorithm](./day-070-heaps) | Completed ✅ |
 | Day 71 | Backtracking | [Subsets Power Set Generation](./day-071-backtracking) | Completed ✅ |
+
+<!-- Day 71 logged -->
