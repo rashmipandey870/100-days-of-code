@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 71)
+### Progress Log (Day 1 - Day 72)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -80,5 +80,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 69 | Heaps | [Kth Largest Element in Array](./day-069-heaps) | Completed ✅ |
 | Day 70 | Heaps | [Task Scheduler Algorithm](./day-070-heaps) | Completed ✅ |
 | Day 71 | Backtracking | [Subsets Power Set Generation](./day-071-backtracking) | Completed ✅ |
-
-<!-- Day 71 logged -->
+| Day 72 | Backtracking | [Combination Sum](./day-072-backtracking) | Completed ✅ |
