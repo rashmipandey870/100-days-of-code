@@ -82,3 +82,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 71 | Backtracking | [Subsets Power Set Generation](./day-071-backtracking) | Completed ✅ |
 | Day 72 | Backtracking | [Combination Sum](./day-072-backtracking) | Completed ✅ |
 | Day 73 | Backtracking | [Permutations Generator](./day-073-backtracking) | Completed ✅ |
+
+<!-- Day 73 logged -->
