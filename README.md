@@ -83,3 +83,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 72 | Backtracking | [Combination Sum](./day-072-backtracking) | Completed ✅ |
 | Day 73 | Backtracking | [Permutations Generator](./day-073-backtracking) | Completed ✅ |
 | Day 74 | Backtracking | [Subsets II with Duplicates](./day-074-backtracking) | Completed ✅ |
+
+<!-- Day 74 logged -->
