@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 74)
+### Progress Log (Day 1 - Day 75)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -83,5 +83,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 72 | Backtracking | [Combination Sum](./day-072-backtracking) | Completed ✅ |
 | Day 73 | Backtracking | [Permutations Generator](./day-073-backtracking) | Completed ✅ |
 | Day 74 | Backtracking | [Subsets II with Duplicates](./day-074-backtracking) | Completed ✅ |
-
-<!-- Day 74 logged -->
+| Day 75 | Backtracking | [Combination Sum II with Deduplication](./day-075-backtracking) | Completed ✅ |
