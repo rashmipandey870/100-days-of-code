@@ -85,3 +85,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 74 | Backtracking | [Subsets II with Duplicates](./day-074-backtracking) | Completed ✅ |
 | Day 75 | Backtracking | [Combination Sum II with Deduplication](./day-075-backtracking) | Completed ✅ |
 | Day 76 | Backtracking | [Word Search on 2D Grid](./day-076-backtracking) | Completed ✅ |
+
+<!-- Day 76 logged -->
