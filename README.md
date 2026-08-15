@@ -86,3 +86,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 75 | Backtracking | [Combination Sum II with Deduplication](./day-075-backtracking) | Completed ✅ |
 | Day 76 | Backtracking | [Word Search on 2D Grid](./day-076-backtracking) | Completed ✅ |
 | Day 77 | Backtracking | [Palindrome Partitioning](./day-077-backtracking) | Completed ✅ |
+
+<!-- Day 77 logged -->
