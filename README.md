@@ -87,3 +87,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 76 | Backtracking | [Word Search on 2D Grid](./day-076-backtracking) | Completed ✅ |
 | Day 77 | Backtracking | [Palindrome Partitioning](./day-077-backtracking) | Completed ✅ |
 | Day 78 | Backtracking | [Letter Combinations of Phone Number](./day-078-backtracking) | Completed ✅ |
+
+<!-- Day 78 logged -->
