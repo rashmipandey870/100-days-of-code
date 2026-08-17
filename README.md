@@ -88,3 +88,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 77 | Backtracking | [Palindrome Partitioning](./day-077-backtracking) | Completed ✅ |
 | Day 78 | Backtracking | [Letter Combinations of Phone Number](./day-078-backtracking) | Completed ✅ |
 | Day 79 | Backtracking | [N-Queens Problem](./day-079-backtracking) | Completed ✅ |
+
+<!-- Day 79 logged -->
