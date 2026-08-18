@@ -89,3 +89,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 78 | Backtracking | [Letter Combinations of Phone Number](./day-078-backtracking) | Completed ✅ |
 | Day 79 | Backtracking | [N-Queens Problem](./day-079-backtracking) | Completed ✅ |
 | Day 80 | Backtracking | [Sudoku Solver](./day-080-backtracking) | Completed ✅ |
+
+<!-- Day 80 logged -->
