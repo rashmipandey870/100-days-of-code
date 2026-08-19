@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 80)
+### Progress Log (Day 1 - Day 81)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -89,5 +89,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 78 | Backtracking | [Letter Combinations of Phone Number](./day-078-backtracking) | Completed ✅ |
 | Day 79 | Backtracking | [N-Queens Problem](./day-079-backtracking) | Completed ✅ |
 | Day 80 | Backtracking | [Sudoku Solver](./day-080-backtracking) | Completed ✅ |
-
-<!-- Day 80 logged -->
+| Day 81 | Graphs | [Number of Islands BFS/DFS](./day-081-graphs) | Completed ✅ |
