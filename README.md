@@ -90,3 +90,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 79 | Backtracking | [N-Queens Problem](./day-079-backtracking) | Completed ✅ |
 | Day 80 | Backtracking | [Sudoku Solver](./day-080-backtracking) | Completed ✅ |
 | Day 81 | Graphs | [Number of Islands BFS/DFS](./day-081-graphs) | Completed ✅ |
+
+<!-- Day 81 logged -->
