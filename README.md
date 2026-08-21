@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 82)
+### Progress Log (Day 1 - Day 83)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -91,5 +91,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 80 | Backtracking | [Sudoku Solver](./day-080-backtracking) | Completed ✅ |
 | Day 81 | Graphs | [Number of Islands BFS/DFS](./day-081-graphs) | Completed ✅ |
 | Day 82 | Graphs | [Clone Undirected Graph](./day-082-graphs) | Completed ✅ |
-
-<!-- Day 82 logged -->
+| Day 83 | Graphs | [Max Area of Island](./day-083-graphs) | Completed ✅ |
