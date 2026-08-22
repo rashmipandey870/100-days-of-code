@@ -93,3 +93,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 82 | Graphs | [Clone Undirected Graph](./day-082-graphs) | Completed ✅ |
 | Day 83 | Graphs | [Max Area of Island](./day-083-graphs) | Completed ✅ |
 | Day 84 | Graphs | [Pacific Atlantic Water Flow](./day-084-graphs) | Completed ✅ |
+
+<!-- Day 84 logged -->
