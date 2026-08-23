@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 84)
+### Progress Log (Day 1 - Day 85)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -93,5 +93,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 82 | Graphs | [Clone Undirected Graph](./day-082-graphs) | Completed ✅ |
 | Day 83 | Graphs | [Max Area of Island](./day-083-graphs) | Completed ✅ |
 | Day 84 | Graphs | [Pacific Atlantic Water Flow](./day-084-graphs) | Completed ✅ |
-
-<!-- Day 84 logged -->
+| Day 85 | Graphs | [Surrounded Regions Capture](./day-085-graphs) | Completed ✅ |
