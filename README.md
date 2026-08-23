@@ -94,3 +94,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 83 | Graphs | [Max Area of Island](./day-083-graphs) | Completed ✅ |
 | Day 84 | Graphs | [Pacific Atlantic Water Flow](./day-084-graphs) | Completed ✅ |
 | Day 85 | Graphs | [Surrounded Regions Capture](./day-085-graphs) | Completed ✅ |
+
+<!-- Day 85 logged -->
