@@ -95,3 +95,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 84 | Graphs | [Pacific Atlantic Water Flow](./day-084-graphs) | Completed ✅ |
 | Day 85 | Graphs | [Surrounded Regions Capture](./day-085-graphs) | Completed ✅ |
 | Day 86 | Graphs | [Rotting Oranges Multi-source BFS](./day-086-graphs) | Completed ✅ |
+
+<!-- Day 86 logged -->
