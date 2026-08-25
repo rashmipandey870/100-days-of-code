@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 86)
+### Progress Log (Day 1 - Day 87)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -95,5 +95,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 84 | Graphs | [Pacific Atlantic Water Flow](./day-084-graphs) | Completed ✅ |
 | Day 85 | Graphs | [Surrounded Regions Capture](./day-085-graphs) | Completed ✅ |
 | Day 86 | Graphs | [Rotting Oranges Multi-source BFS](./day-086-graphs) | Completed ✅ |
-
-<!-- Day 86 logged -->
+| Day 87 | Graphs | [Course Schedule Topological Sort](./day-087-graphs) | Completed ✅ |
