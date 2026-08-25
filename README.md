@@ -96,3 +96,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 85 | Graphs | [Surrounded Regions Capture](./day-085-graphs) | Completed ✅ |
 | Day 86 | Graphs | [Rotting Oranges Multi-source BFS](./day-086-graphs) | Completed ✅ |
 | Day 87 | Graphs | [Course Schedule Topological Sort](./day-087-graphs) | Completed ✅ |
+
+<!-- Day 87 logged -->
