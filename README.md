@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 87)
+### Progress Log (Day 1 - Day 88)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -96,5 +96,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 85 | Graphs | [Surrounded Regions Capture](./day-085-graphs) | Completed ✅ |
 | Day 86 | Graphs | [Rotting Oranges Multi-source BFS](./day-086-graphs) | Completed ✅ |
 | Day 87 | Graphs | [Course Schedule Topological Sort](./day-087-graphs) | Completed ✅ |
-
-<!-- Day 87 logged -->
+| Day 88 | Graphs | [Course Schedule II Order](./day-088-graphs) | Completed ✅ |
