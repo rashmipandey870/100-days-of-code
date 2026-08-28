@@ -99,3 +99,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 88 | Graphs | [Course Schedule II Order](./day-088-graphs) | Completed ✅ |
 | Day 89 | Graphs | [Redundant Connection Union-Find](./day-089-graphs) | Completed ✅ |
 | Day 90 | Graphs | [Word Ladder Shortest Transformation](./day-090-graphs) | Completed ✅ |
+
+<!-- Day 90 logged -->
