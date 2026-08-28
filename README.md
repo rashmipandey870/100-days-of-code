@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 89)
+### Progress Log (Day 1 - Day 90)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -98,5 +98,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 87 | Graphs | [Course Schedule Topological Sort](./day-087-graphs) | Completed ✅ |
 | Day 88 | Graphs | [Course Schedule II Order](./day-088-graphs) | Completed ✅ |
 | Day 89 | Graphs | [Redundant Connection Union-Find](./day-089-graphs) | Completed ✅ |
-
-<!-- Day 89 logged -->
+| Day 90 | Graphs | [Word Ladder Shortest Transformation](./day-090-graphs) | Completed ✅ |
