@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 91)
+### Progress Log (Day 1 - Day 92)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -100,5 +100,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 89 | Graphs | [Redundant Connection Union-Find](./day-089-graphs) | Completed ✅ |
 | Day 90 | Graphs | [Word Ladder Shortest Transformation](./day-090-graphs) | Completed ✅ |
 | Day 91 | Dynamic Programming | [Climbing Stairs Combinatorics](./day-091-dynamic-programming) | Completed ✅ |
-
-<!-- Day 91 logged -->
+| Day 92 | Dynamic Programming | [Min Cost Climbing Stairs](./day-092-dynamic-programming) | Completed ✅ |
