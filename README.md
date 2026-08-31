@@ -102,3 +102,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 91 | Dynamic Programming | [Climbing Stairs Combinatorics](./day-091-dynamic-programming) | Completed ✅ |
 | Day 92 | Dynamic Programming | [Min Cost Climbing Stairs](./day-092-dynamic-programming) | Completed ✅ |
 | Day 93 | Dynamic Programming | [House Robber DP](./day-093-dynamic-programming) | Completed ✅ |
+
+<!-- Day 93 logged -->
