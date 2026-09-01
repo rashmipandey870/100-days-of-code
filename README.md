@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 93)
+### Progress Log (Day 1 - Day 94)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -102,5 +102,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 91 | Dynamic Programming | [Climbing Stairs Combinatorics](./day-091-dynamic-programming) | Completed ✅ |
 | Day 92 | Dynamic Programming | [Min Cost Climbing Stairs](./day-092-dynamic-programming) | Completed ✅ |
 | Day 93 | Dynamic Programming | [House Robber DP](./day-093-dynamic-programming) | Completed ✅ |
-
-<!-- Day 93 logged -->
+| Day 94 | Dynamic Programming | [House Robber II Circular](./day-094-dynamic-programming) | Completed ✅ |
