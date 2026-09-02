@@ -104,3 +104,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 93 | Dynamic Programming | [House Robber DP](./day-093-dynamic-programming) | Completed ✅ |
 | Day 94 | Dynamic Programming | [House Robber II Circular](./day-094-dynamic-programming) | Completed ✅ |
 | Day 95 | Dynamic Programming | [Longest Palindromic Substring DP](./day-095-dynamic-programming) | Completed ✅ |
+
+<!-- Day 95 logged -->
