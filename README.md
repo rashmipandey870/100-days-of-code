@@ -106,3 +106,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 95 | Dynamic Programming | [Longest Palindromic Substring DP](./day-095-dynamic-programming) | Completed ✅ |
 | Day 96 | Dynamic Programming | [Palindromic Substrings Count](./day-096-dynamic-programming) | Completed ✅ |
 | Day 97 | Dynamic Programming | [Decode Ways Dynamic Programming](./day-097-dynamic-programming) | Completed ✅ |
+
+<!-- Day 97 logged -->
