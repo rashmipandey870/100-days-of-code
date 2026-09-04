@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 96)
+### Progress Log (Day 1 - Day 97)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -105,5 +105,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 94 | Dynamic Programming | [House Robber II Circular](./day-094-dynamic-programming) | Completed ✅ |
 | Day 95 | Dynamic Programming | [Longest Palindromic Substring DP](./day-095-dynamic-programming) | Completed ✅ |
 | Day 96 | Dynamic Programming | [Palindromic Substrings Count](./day-096-dynamic-programming) | Completed ✅ |
-
-<!-- Day 96 logged -->
+| Day 97 | Dynamic Programming | [Decode Ways Dynamic Programming](./day-097-dynamic-programming) | Completed ✅ |
