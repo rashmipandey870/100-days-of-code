@@ -109,3 +109,5 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 98 | Dynamic Programming | [Coin Change Unbounded Knapsack](./day-098-dynamic-programming) | Completed ✅ |
 | Day 99 | Dynamic Programming | [Maximum Product Subarray](./day-099-dynamic-programming) | Completed ✅ |
 | Day 100 | Dynamic Programming | [Longest Increasing Subsequence Patience Sorting](./day-100-dynamic-programming) | Completed ✅ |
+
+<!-- Day 100 logged -->
