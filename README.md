@@ -5,7 +5,7 @@
 
 A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
 
-### Progress Log (Day 1 - Day 99)
+### Progress Log (Day 1 - Day 100)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
@@ -108,5 +108,4 @@ A complete repository of 100 consecutive days of Data Structures & Algorithms, C
 | Day 97 | Dynamic Programming | [Decode Ways Dynamic Programming](./day-097-dynamic-programming) | Completed ✅ |
 | Day 98 | Dynamic Programming | [Coin Change Unbounded Knapsack](./day-098-dynamic-programming) | Completed ✅ |
 | Day 99 | Dynamic Programming | [Maximum Product Subarray](./day-099-dynamic-programming) | Completed ✅ |
-
-<!-- Day 99 logged -->
+| Day 100 | Dynamic Programming | [Longest Increasing Subsequence Patience Sorting](./day-100-dynamic-programming) | Completed ✅ |
