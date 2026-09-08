@@ -147,3 +147,4 @@ A structured collection of 100+ Data Structures and Algorithms problems solved t
 | Day 110 | Greedy | [Maximum Subarray Kadane Algorithm](./day-110-greedy) | Completed ✅ |
 | Day 111 | Greedy | [Jump Game Array Reachability](./day-111-greedy) | Completed ✅ |
 | Day 112 | Greedy | [Gas Station Circular Tour](./day-112-greedy) | Completed ✅ |
+| Day 113 | Dynamic Programming | [Partition Equal Subset Sum](./day-113-dynamic-programming) | Completed ✅ |
