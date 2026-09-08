@@ -140,3 +140,4 @@ A structured collection of 100+ Data Structures and Algorithms problems solved t
 | Day 103 | Intervals | [Non-overlapping Intervals](./day-103-intervals) | Completed ✅ |
 | Day 104 | Matrix | [Rotate Image Matrix](./day-104-matrix) | Completed ✅ |
 | Day 105 | Matrix | [Spiral Matrix Traversal](./day-105-matrix) | Completed ✅ |
+| Day 106 | Matrix | [Set Matrix Zeroes](./day-106-matrix) | Completed ✅ |
