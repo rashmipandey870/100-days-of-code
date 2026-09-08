@@ -138,3 +138,4 @@ A structured collection of 100+ Data Structures and Algorithms problems solved t
 | Day 101 | Intervals | [Merge Intervals](./day-101-intervals) | Completed ✅ |
 | Day 102 | Intervals | [Insert Interval](./day-102-intervals) | Completed ✅ |
 | Day 103 | Intervals | [Non-overlapping Intervals](./day-103-intervals) | Completed ✅ |
+| Day 104 | Matrix | [Rotate Image Matrix](./day-104-matrix) | Completed ✅ |
