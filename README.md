@@ -135,3 +135,4 @@ A structured collection of 100+ Data Structures and Algorithms problems solved t
 | Day 100 | Dynamic Programming | [Longest Increasing Subsequence Patience Sorting](./day-100-dynamic-programming) | Completed ✅ |
 
 <!-- Day 100 logged -->
+| Day 101 | Intervals | [Merge Intervals](./day-101-intervals) | Completed ✅ |
