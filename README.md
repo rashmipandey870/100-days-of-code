@@ -1,11 +1,35 @@
-# 100 Days of Code Challenge 🚀
+# 100 Days of Code – DSA Practice & Problem Solving 🧠🚀
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![100 Days Completed](https://img.shields.io/badge/100%20Days-Completed%20%E2%9C%85-brightgreen)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-100%2B-orange)
 
-A complete repository of 100 consecutive days of Data Structures & Algorithms, Clean Code implementations, and Unit Tests.
+A structured collection of 100+ Data Structures and Algorithms problems solved through continuous daily practice while preparing for technical software engineering interviews, mastering core algorithmic patterns, and building strong problem-solving fundamentals.
 
-### Progress Log (Day 1 - Day 100)
+---
+
+## 📌 Purpose & Approach
+- **Daily Discipline:** Consistent problem solving across 100 consecutive days covering the most important algorithmic patterns (Blind 75 & NeetCode 150 standards).
+- **Defensive Implementation:** Every problem includes edge-case handling, clean code syntax, and executable unit test assertions.
+- **Complexity Focus:** Explicit time and space complexity evaluations for every solution.
+
+---
+
+## 🗺️ Topics & Patterns Covered
+- 🗂️ **Arrays & Hashing:** Two Sum, Group Anagrams, Prefix Products, Longest Consecutive Sequence
+- 🪟 **Two Pointers & Sliding Window:** 3Sum, Trapping Rain Water, Min Window Substring, Longest Substring
+- 🥞 **Stacks & Queues:** Monotonic Stack, Daily Temperatures, Largest Rectangle in Histogram, Min Stack
+- 🔍 **Binary Search:** Search 2D Matrix, Rotated Sorted Arrays, Capacity Optimization, Koko Eating Bananas
+- 🔗 **Linked Lists:** Cycle Detection, Reorder List, LRU Cache, Merge K Sorted Lists
+- 🌳 **Trees & Binary Search Trees:** Level Order Traversal, Validate BST, Lowest Common Ancestor, Path Sum
+- ⛰️ **Heaps & Priority Queues:** Kth Largest Element, Task Scheduler, Median from Data Stream
+- 🔄 **Backtracking & Recursion:** Subsets, Combination Sum, Permutations, N-Queens, Word Search
+- 🕸️ **Graphs & BFS/DFS:** Number of Islands, Course Schedule, Rotting Oranges, Word Ladder
+- 📈 **Dynamic Programming:** House Robber, Coin Change, Palindromic Substrings, Longest Increasing Subsequence
+
+---
+
+### 📊 Daily Progress Log (Day 1 - Day 100)
 
 | Day | Category | Problem Name | Status |
 | --- | --- | --- | --- |
