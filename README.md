@@ -136,3 +136,4 @@ A structured collection of 100+ Data Structures and Algorithms problems solved t
 
 <!-- Day 100 logged -->
 | Day 101 | Intervals | [Merge Intervals](./day-101-intervals) | Completed ✅ |
+| Day 102 | Intervals | [Insert Interval](./day-102-intervals) | Completed ✅ |
