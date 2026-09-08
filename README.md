@@ -148,3 +148,4 @@ A structured collection of 100+ Data Structures and Algorithms problems solved t
 | Day 111 | Greedy | [Jump Game Array Reachability](./day-111-greedy) | Completed ✅ |
 | Day 112 | Greedy | [Gas Station Circular Tour](./day-112-greedy) | Completed ✅ |
 | Day 113 | Dynamic Programming | [Partition Equal Subset Sum](./day-113-dynamic-programming) | Completed ✅ |
+| Day 114 | Bit Manipulation | [Single Number Bitwise XOR](./day-114-bit-manipulation) | Completed ✅ |
