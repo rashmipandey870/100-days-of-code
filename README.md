@@ -143,3 +143,4 @@ A structured collection of 100+ Data Structures and Algorithms problems solved t
 | Day 106 | Matrix | [Set Matrix Zeroes](./day-106-matrix) | Completed ✅ |
 | Day 107 | Dynamic Programming | [Longest Common Subsequence](./day-107-dynamic-programming) | Completed ✅ |
 | Day 108 | Dynamic Programming | [Edit Distance Levenshtein](./day-108-dynamic-programming) | Completed ✅ |
+| Day 109 | Dynamic Programming | [Unique Paths in Grid](./day-109-dynamic-programming) | Completed ✅ |
