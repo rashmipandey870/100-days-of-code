@@ -150,3 +150,4 @@ A structured collection of 100+ Data Structures and Algorithms problems solved t
 | Day 113 | Dynamic Programming | [Partition Equal Subset Sum](./day-113-dynamic-programming) | Completed ✅ |
 | Day 114 | Bit Manipulation | [Single Number Bitwise XOR](./day-114-bit-manipulation) | Completed ✅ |
 | Day 115 | Bit Manipulation | [Counting Bits Hamming Weight](./day-115-bit-manipulation) | Completed ✅ |
+| Day 116 | Arrays | [Subarray Sum Equals K](./day-116-arrays) | Completed ✅ |
