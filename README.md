@@ -154,3 +154,4 @@ A structured collection of 100+ Data Structures and Algorithms problems solved t
 | Day 117 | Arrays | [Continuous Subarray Sum](./day-117-arrays) | Completed ✅ |
 | Day 118 | Sliding Window | [Minimum Size Subarray Sum](./day-118-sliding-window) | Completed ✅ |
 | Day 119 | Sliding Window | [Find All Anagrams in a String](./day-119-sliding-window) | Completed ✅ |
+| Day 120 | Arrays | [Next Permutation](./day-120-arrays) | Completed ✅ |
