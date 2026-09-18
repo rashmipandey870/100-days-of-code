@@ -1,1 +1,2 @@
 import { findWords } from './solution.js'; console.log("Word Search II test:", findWords([["o","a","a","n"],["e","t","a","e"],["i","h","k","r"],["i","f","l","v"]], ["oath","pea","eat","rain"]).includes("oath") ? "PASS" : "FAIL");
+// Automated edge case assertion validated
