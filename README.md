@@ -157,3 +157,4 @@ A structured collection of 100+ Data Structures and Algorithms problems solved t
 | Day 120 | Arrays | [Next Permutation](./day-120-arrays) | Completed ✅ |
 | Day 121 | Two Pointers | [4Sum Quadruplets](./day-121-two-pointers) | Completed ✅ |
 | Day 122 | Sorting | [Sort Colors Dutch Flag](./day-122-sorting) | Completed ✅ |
+| Day 123 | Trie | [Implement Trie Prefix Tree](./day-123-trie) | Completed ✅ |
