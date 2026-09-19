@@ -161,3 +161,4 @@ A structured collection of 100+ Data Structures and Algorithms problems solved t
 | Day 124 | Trie | [Design Add Search Words](./day-124-trie) | Completed ✅ |
 | Day 125 | Trie | [Word Search II Multi-Word](./day-125-trie) | Completed ✅ |
 | Day 126 | Graphs | [Network Delay Time Dijkstra](./day-126-graphs) | Completed ✅ |
+| Day 127 | Graphs | [Min Cost to Connect Points Prim](./day-127-graphs) | Completed ✅ |
