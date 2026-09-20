@@ -6,3 +6,5 @@ Trees
 ## Complexity
 - **Time:** `O(n)`
 - **Space:** `O(1)`
+
+> Problem Day 131 completed as part of continuous DSA mastery.
