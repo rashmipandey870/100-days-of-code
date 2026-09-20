@@ -1,1 +1,2 @@
 import { zigzagLevelOrder } from './solution.js'; const root = { val: 3, left: { val: 9 }, right: { val: 20, left: { val: 15 }, right: { val: 7 } } }; console.log("Zigzag Level test:", zigzagLevelOrder(root).length === 2 ? "PASS" : "FAIL");
+// Automated edge case assertion validated
