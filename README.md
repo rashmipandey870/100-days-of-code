@@ -168,3 +168,4 @@ A structured collection of 100+ Data Structures and Algorithms problems solved t
 | Day 131 | Trees | [Flatten Binary Tree to Linked List](./day-131-trees) | Completed ✅ |
 | Day 132 | Trees | [Populate Next Right Pointers](./day-132-trees) | Completed ✅ |
 | Day 133 | Trees | [Construct Tree Inorder Postorder](./day-133-trees) | Completed ✅ |
+| Day 134 | Trees | [Maximum Width of Binary Tree](./day-134-trees) | Completed ✅ |
