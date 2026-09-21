@@ -166,3 +166,4 @@ A structured collection of 100+ Data Structures and Algorithms problems solved t
 | Day 129 | Graphs | [Alien Dictionary Topological](./day-129-graphs) | Completed ✅ |
 | Day 130 | Trees | [Binary Tree Zigzag Traversal](./day-130-trees) | Completed ✅ |
 | Day 131 | Trees | [Flatten Binary Tree to Linked List](./day-131-trees) | Completed ✅ |
+| Day 132 | Trees | [Populate Next Right Pointers](./day-132-trees) | Completed ✅ |
