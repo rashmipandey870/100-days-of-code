@@ -171,3 +171,4 @@ A structured collection of 100+ Data Structures and Algorithms problems solved t
 | Day 134 | Trees | [Maximum Width of Binary Tree](./day-134-trees) | Completed ✅ |
 | Day 135 | Dynamic Programming | [Target Sum Ways](./day-135-dynamic-programming) | Completed ✅ |
 | Day 136 | Dynamic Programming | [Interleaving String DP](./day-136-dynamic-programming) | Completed ✅ |
+| Day 137 | Dynamic Programming | [Distinct Subsequences](./day-137-dynamic-programming) | Completed ✅ |
