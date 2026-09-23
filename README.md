@@ -174,3 +174,4 @@ A structured collection of 100+ Data Structures and Algorithms problems solved t
 | Day 137 | Dynamic Programming | [Distinct Subsequences](./day-137-dynamic-programming) | Completed ✅ |
 | Day 138 | Dynamic Programming | [Burst Balloons Matrix DP](./day-138-dynamic-programming) | Completed ✅ |
 | Day 139 | Dynamic Programming | [Regular Expression Matching](./day-139-dynamic-programming) | Completed ✅ |
+| Day 140 | Dynamic Programming | [Word Break Segmentation](./day-140-dynamic-programming) | Completed ✅ |
