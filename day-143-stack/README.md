@@ -6,3 +6,5 @@ Stack
 ## Complexity
 - **Time:** `O(m * n)`
 - **Space:** `O(n)`
+
+> Problem Day 143 completed as part of continuous DSA mastery.
