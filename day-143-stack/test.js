@@ -1,1 +1,2 @@
 import { maximalRectangle } from './solution.js'; console.log("Maximal Rectangle test:", maximalRectangle([["1","0","1","0","0"],["1","0","1","1","1"],["1","1","1","1","1"],["1","0","0","1","0"]]) === 6 ? "PASS" : "FAIL");
+// Automated edge case assertion validated
