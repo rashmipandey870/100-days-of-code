@@ -180,3 +180,4 @@ A structured collection of 100+ Data Structures and Algorithms problems solved t
 | Day 143 | Stack | [Maximal Rectangle in Binary Matrix](./day-143-stack) | Completed ✅ |
 | Day 144 | BFS | [Sliding Puzzle Shortest Moves](./day-144-bfs) | Completed ✅ |
 | Day 145 | Intervals | [Meeting Rooms Schedule Conflict](./day-145-intervals) | Completed ✅ |
+| Day 146 | Intervals | [Meeting Rooms II Min Conference Rooms](./day-146-intervals) | Completed ✅ |
