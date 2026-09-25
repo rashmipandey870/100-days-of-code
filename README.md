@@ -178,3 +178,4 @@ A structured collection of 100+ Data Structures and Algorithms problems solved t
 | Day 141 | Dynamic Programming | [Minimum Cost For Tickets](./day-141-dynamic-programming) | Completed ✅ |
 | Day 142 | Stack | [Longest Valid Parentheses](./day-142-stack) | Completed ✅ |
 | Day 143 | Stack | [Maximal Rectangle in Binary Matrix](./day-143-stack) | Completed ✅ |
+| Day 144 | BFS | [Sliding Puzzle Shortest Moves](./day-144-bfs) | Completed ✅ |
