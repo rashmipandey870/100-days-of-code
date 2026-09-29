@@ -184,3 +184,4 @@ A structured collection of 100+ Data Structures and Algorithms problems solved t
 | Day 147 | Graphs | [Graph Valid Tree Cycle Detection](./day-147-graphs) | Completed ✅ |
 | Day 148 | Graphs | [Connected Components in Graph](./day-148-graphs) | Completed ✅ |
 | Day 149 | Backtracking | [Word Search Grid Solver](./day-149-backtracking) | Completed ✅ |
+| Day 150 | Backtracking | [Palindrome Partitioning DFS](./day-150-backtracking) | Completed ✅ |
