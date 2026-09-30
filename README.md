@@ -186,3 +186,4 @@ A structured collection of 100+ Data Structures and Algorithms problems solved t
 | Day 149 | Backtracking | [Word Search Grid Solver](./day-149-backtracking) | Completed ✅ |
 | Day 150 | Backtracking | [Palindrome Partitioning DFS](./day-150-backtracking) | Completed ✅ |
 | Day 151 | Dynamic Programming | [House Robber II Circle](./day-151-dynamic-programming) | Completed ✅ |
+| Day 152 | Dynamic Programming | [Palindromic Substrings Count](./day-152-dynamic-programming) | Completed ✅ |
