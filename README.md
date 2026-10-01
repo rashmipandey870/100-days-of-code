@@ -189,3 +189,4 @@ A structured collection of 100+ Data Structures and Algorithms problems solved t
 | Day 152 | Dynamic Programming | [Palindromic Substrings Count](./day-152-dynamic-programming) | Completed ✅ |
 | Day 153 | Dynamic Programming | [Decode Ways Combinations](./day-153-dynamic-programming) | Completed ✅ |
 | Day 154 | Dynamic Programming | [Coin Change Min Coins](./day-154-dynamic-programming) | Completed ✅ |
+| Day 155 | Dynamic Programming | [Max Product Subarray](./day-155-dynamic-programming) | Completed ✅ |
