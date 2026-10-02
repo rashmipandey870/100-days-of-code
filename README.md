@@ -190,3 +190,4 @@ A structured collection of 100+ Data Structures and Algorithms problems solved t
 | Day 153 | Dynamic Programming | [Decode Ways Combinations](./day-153-dynamic-programming) | Completed ✅ |
 | Day 154 | Dynamic Programming | [Coin Change Min Coins](./day-154-dynamic-programming) | Completed ✅ |
 | Day 155 | Dynamic Programming | [Max Product Subarray](./day-155-dynamic-programming) | Completed ✅ |
+| Day 156 | Dynamic Programming | [Longest Increasing Subsequence Patience](./day-156-dynamic-programming) | Completed ✅ |
