@@ -2,9 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![100 Days Completed](https://img.shields.io/badge/100%20Days-Completed%20%E2%9C%85-brightgreen)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-100%2B-orange)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-160%2B-orange)
 
-A structured collection of 100+ Data Structures and Algorithms problems solved through continuous daily practice while preparing for technical software engineering interviews, mastering core algorithmic patterns, and building strong problem-solving fundamentals.
+A structured collection of 160+ Data Structures and Algorithms problems solved through continuous daily practice while preparing for technical software engineering interviews, mastering core algorithmic patterns, and building strong problem-solving fundamentals.
 
 ---
 
