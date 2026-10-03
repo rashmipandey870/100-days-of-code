@@ -194,3 +194,4 @@ A structured collection of 100+ Data Structures and Algorithms problems solved t
 | Day 157 | Heaps | [Find Median from Data Stream Two Heaps](./day-157-heaps) | Completed ✅ |
 | Day 158 | Graphs | [Rotting Oranges Multi-Source BFS](./day-158-graphs) | Completed ✅ |
 | Day 159 | Heaps | [Task Scheduler Cooldown Idle](./day-159-heaps) | Completed ✅ |
+| Day 160 | Graphs | [Course Schedule Cycle Detection](./day-160-graphs) | Completed ✅ |
