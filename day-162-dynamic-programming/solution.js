@@ -13,3 +13,4 @@ export function maxProfitWithCooldown(prices) {
     }
     return Math.max(sold, rest);
 }
+// Complexity verified: O(n) runtime, O(1) memory
