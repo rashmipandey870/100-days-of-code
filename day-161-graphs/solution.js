@@ -25,3 +25,4 @@ export function wallsAndGates(rooms) {
     }
     return rooms;
 }
+// Complexity verified: O(m * n) runtime, O(m * n) memory
