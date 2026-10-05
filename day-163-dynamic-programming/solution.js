@@ -13,3 +13,4 @@ export function change(amount, coins) {
     }
     return dp[amount];
 }
+// Complexity verified: O(n * amount) runtime, O(amount) memory
