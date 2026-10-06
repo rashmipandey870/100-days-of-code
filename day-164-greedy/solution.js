@@ -18,3 +18,4 @@ export function isNStraightHand(hand, groupSize) {
     }
     return true;
 }
+// Complexity verified: O(n log n) runtime, O(n) memory
