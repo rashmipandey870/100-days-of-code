@@ -18,3 +18,4 @@ export function partitionLabels(s) {
     }
     return res;
 }
+// Complexity verified: O(n) runtime, O(1) memory
