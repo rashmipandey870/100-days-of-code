@@ -20,3 +20,4 @@ export function minInterval(intervals, queries) {
     }
     return res;
 }
+// Complexity verified: O(n log n + q log q) runtime, O(n + q) memory
