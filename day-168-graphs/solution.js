@@ -21,3 +21,4 @@ export function findItinerary(tickets) {
     dfs("JFK");
     return route.reverse();
 }
+// Complexity verified: O(E log E) runtime, O(V + E) memory
