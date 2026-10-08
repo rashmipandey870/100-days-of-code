@@ -23,3 +23,4 @@ export function swimInWater(grid) {
     }
     return -1;
 }
+// Complexity verified: O(n^2 log n) runtime, O(n^2) memory
