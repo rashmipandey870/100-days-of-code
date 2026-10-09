@@ -11,3 +11,4 @@ export function reverseBits(n) {
     }
     return res >>> 0;
 }
+// Complexity verified: O(1) runtime, O(1) memory
