@@ -14,3 +14,4 @@ export function myPow(x, n) {
     }
     return n < 0 ? 1 / result : result;
 }
+// Complexity verified: O(log n) runtime, O(1) memory
