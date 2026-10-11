@@ -23,3 +23,4 @@ export class DetectSquares {
         return res;
     }
 }
+// Complexity verified: O(n) runtime, O(n) memory
