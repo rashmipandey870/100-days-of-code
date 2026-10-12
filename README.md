@@ -15,6 +15,20 @@ A structured collection of 175+ Data Structures and Algorithms problems solved t
 
 ---
 
+## 🛠️ Applied DSA Mini-Projects in Java
+
+Real-world engines built in **Java** applying core Data Structures and Algorithms to practical systems:
+
+| # | Project Name | Core DSA Applied | Complexity | Source Code |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | **Snake Game Engine** | `ArrayDeque` (O(1) Body Queue), `HashSet` (Collision), 2D Arrays | `O(1)` per move | [SnakeGameEngine.java](./java-dsa-projects/01-snake-game/SnakeGameEngine.java) |
+| 2 | **Cash Flow Minimizer (Splitwise)** | Directed Graphs (Net Balance) & Two `PriorityQueue` Max-Heaps | `O(N log N)` | [CashFlowMinimizer.java](./java-dsa-projects/02-cash-flow-minimizer/CashFlowMinimizer.java) |
+| 3 | **Sudoku Solver Engine** | Backtracking, Recursion & 3×3 Sub-Grid Constraint Pruning | `O(9^m)` | [SudokuSolverEngine.java](./java-dsa-projects/03-sudoku-solver/SudokuSolverEngine.java) |
+| 4 | **Lossless File Compressor** | Huffman Coding Tree, Greedy Algorithm & Min-Heap `PriorityQueue` | `O(N + K log K)` | [HuffmanFileCompressor.java](./java-dsa-projects/04-file-compressor-huffman/HuffmanFileCompressor.java) |
+| 5 | **Map Navigator Engine** | Weighted Graph Adjacency List & Dijkstra's Shortest Path | `O((V + E) log V)` | [MapNavigatorDijkstra.java](./java-dsa-projects/05-map-navigator-dijkstra/MapNavigatorDijkstra.java) |
+
+---
+
 ## 🗺️ Topics & Patterns Covered
 - 🗂️ **Arrays & Hashing:** Two Sum, Group Anagrams, Prefix Products, Longest Consecutive Sequence
 - 🪟 **Two Pointers & Sliding Window:** 3Sum, Trapping Rain Water, Min Window Substring, Longest Substring
