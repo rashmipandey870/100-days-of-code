@@ -2,9 +2,9 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 ![100 Days Completed](https://img.shields.io/badge/100%20Days-Completed%20%E2%9C%85-brightgreen)
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-160%2B-orange)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-175%2B-orange)
 
-A structured collection of 160+ Data Structures and Algorithms problems solved through continuous daily practice while preparing for technical software engineering interviews, mastering core algorithmic patterns, and building strong problem-solving fundamentals.
+A structured collection of 175+ Data Structures and Algorithms problems solved through continuous daily practice while preparing for technical software engineering interviews, mastering core algorithmic patterns, and building strong problem-solving fundamentals.
 
 ---
 
@@ -195,3 +195,18 @@ A structured collection of 160+ Data Structures and Algorithms problems solved t
 | Day 158 | Graphs | [Rotting Oranges Multi-Source BFS](./day-158-graphs) | Completed ✅ |
 | Day 159 | Heaps | [Task Scheduler Cooldown Idle](./day-159-heaps) | Completed ✅ |
 | Day 160 | Graphs | [Course Schedule Cycle Detection](./day-160-graphs) | Completed ✅ |
+| Day 161 | Graphs | [Walls and Gates Multi-Source BFS](./day-161-graphs) | Completed ✅ |
+| Day 162 | Dynamic Programming | [Best Time to Buy and Sell Stock with Cooldown](./day-162-dynamic-programming) | Completed ✅ |
+| Day 163 | Dynamic Programming | [Coin Change II Combinations](./day-163-dynamic-programming) | Completed ✅ |
+| Day 164 | Greedy | [Hand of Straights Card Grouping](./day-164-greedy) | Completed ✅ |
+| Day 165 | Greedy | [Partition Labels Substring Split](./day-165-greedy) | Completed ✅ |
+| Day 166 | Intervals | [Minimum Interval to Include Each Query](./day-166-intervals) | Completed ✅ |
+| Day 167 | Graphs | [Swim in Rising Water Dijkstra](./day-167-graphs) | Completed ✅ |
+| Day 168 | Graphs | [Reconstruct Itinerary Eulerian Path](./day-168-graphs) | Completed ✅ |
+| Day 169 | Bit Manipulation | [Reverse Bits 32-Bit Integer](./day-169-bit-manipulation) | Completed ✅ |
+| Day 170 | Bit Manipulation | [Sum of Two Integers Bitwise Adder](./day-170-bit-manipulation) | Completed ✅ |
+| Day 171 | Math & Geometry | [Pow(x, n) Binary Exponentiation](./day-171-math-geometry) | Completed ✅ |
+| Day 172 | Math & Geometry | [Detect Squares Coordinate Hashing](./day-172-math-geometry) | Completed ✅ |
+| Day 173 | Trees | [Binary Tree Cameras Greedy DFS](./day-173-trees) | Completed ✅ |
+| Day 174 | Dynamic Programming | [Shortest Common Supersequence](./day-174-dynamic-programming) | Completed ✅ |
+| Day 175 | Graphs | [Critical Connections in a Network Tarjan Bridges](./day-175-graphs) | Completed ✅ |
