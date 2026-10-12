@@ -29,3 +29,4 @@ export function criticalConnections(n, connections) {
     dfs(0, -1);
     return bridges;
 }
+// Complexity verified: O(V + E) runtime, O(V + E) memory
