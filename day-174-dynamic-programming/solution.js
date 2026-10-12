@@ -30,3 +30,4 @@ export function shortestCommonSupersequence(str1, str2) {
     while (j > 0) res.push(str2[--j]);
     return res.reverse().join('');
 }
+// Complexity verified: O(m * n) runtime, O(m * n) memory
