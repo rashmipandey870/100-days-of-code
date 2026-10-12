@@ -18,3 +18,4 @@ export function minCameraCover(root) {
     if (dfs(root) === 0) cameras++;
     return cameras;
 }
+// Complexity verified: O(n) runtime, O(h) memory
